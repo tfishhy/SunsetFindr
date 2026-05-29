@@ -60,7 +60,7 @@ Sunset Tracker predicts and visualizes sunset quality based on your location. It
 
 ## Project structure
 
-```
+
 src/
   components/
     Map.jsx          # Leaflet map + grid markers
